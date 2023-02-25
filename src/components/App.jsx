@@ -5,7 +5,6 @@ import FeedbackOptions from './FeedbackOptions'
 import Statistics from "./Statistics";
 import Section from "./Section";
 import Notification from "./Notification";
-import PropTypes from 'prop-types';
 
 class App extends Component {
   static defaultProps = {
