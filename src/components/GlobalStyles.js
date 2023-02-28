@@ -4,7 +4,7 @@ import 'modern-normalize';
 export const GlobalStyle = createGlobalStyle`
   body {
   margin: 0;
-  background-color: rgb(102,255,255);
+  background-color: #fff;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
